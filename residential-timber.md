@@ -25,6 +25,7 @@ Surveyor List --> Check
 
 # Notes from AIBS Webinar
 Professional development seminar for timber based structures by Ian Hayward, Engineering Manager, Pryda Pty Ltd. (2023-02-23)
+[Slides available here](https://photos.app.goo.gl/112RgPQiQZUkhHfA7)
 
 ## NCC2020 Changes to Timber Standards: 
   - [ ] sections of braced walls are to be treated as loadbearing
